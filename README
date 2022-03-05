@@ -1,0 +1,58 @@
+Radu Cosmin
+313 CB
+
+Tema 1
+
+In realizarea temei am incercat sa modularizez cat mai mult codul cat si
+sa nu parcurg de mai multe ori aceeasi structura.
+
+Pentru o lizibilitate mai buna a codului, l-am impartit in 4 fisiere .c:
+- main.c - contine main-ul programului si functiile de prelucrare date de
+utilizator/checker;
+- delete.c - contine functiile pentru stergerea liniilor ce indeplinesc o
+anumita conditie;
+- search.c - contine functiile pentru afisarea liniilor ce indeplinesc o
+anumita conditie;
+- functii.c - restul functiilor pentru realizarea cerintelor.
+
+In fisierul structures.h sunt definite structurile pentru baza de date cat
+si prototipurile functiilor folosite in fisierele cod sursa.
+
+De asemenea, am folosit functii din bibliotecile stdio.h, stdlib.h si string.h.
+Pentru functia INIT_DB aloc baza de date si ii atribui numele transmis
+ca parametru.
+
+In functia DELETE_DB se elibereaza intreaga memorie prin
+patcurgerea listelor incepand cu liniile si coloanele unui tabel,
+continuand cu cea a tabelelor si a bazei de date, la finalul functiei
+oprindu-se executia programului.
+Functia CREATE se poate executa cu 2 parametrii (tabelul nu va avea coloane)
+sau mai multi. Aceasta aloca o structura de tabel, creaza o lista de coloane
+si leaga tabelul la finalul listei de tabele a bazei de date.
+Functia DELETE pentru un tabel distruge lista de coloane cat si lista de linii
+cu toate listele legate la fiecare linie, dezaloca tabelul si reface legaturile
+in lista de tabele a bazei.
+
+Functia PRINT_DB afiseaza prin parcurgeri succesive de la baza de date,
+pana la coloane si linii.
+In functia PRINT se verifica inainte de afisare daca tabelul exista sau nu
+in baza de date, iar daca exista acesta este afisat.
+In functia de SEARCH se verifica, mai intai, existenta tabelului in baza.
+Apoi, daca acesta exista, se verifica si existenta coloanei asupra careia
+se va face comparatia. Daca aceasta exista, se determina ordinea ei in tabel
+pentru a nu parcurge liniile pana la final unde nu e nevoie. Apoi, daca
+o linie respecta conditia, este afisata.
+
+Pentru functia ADD se adauga o linie la finalul listei de linii a unui
+tabel, daca acesta exista in baza de date.
+Functia DELETE cu conditie pentru liniile unui tabel are acelasi principiu
+de functionare ca functia de SEARCH, doar ca in loc sa se afiseze linia
+ce respecta conditia, se elibereaza memoria alocata pentru aceasta si se
+refac legaturile in lista de linii a tabelului.
+Functia CLEAR elibereaza memoria ocupata de lista de linii prin parcurgerea
+ei si a listelor asociate fiecarei linii, iar la final se seteaza campul
+lines al tabelului pe NULL.
+
+Pentru compilare se foloseste comanda make sau make build.
+
+Pe checker-ul local am obtinut 85 de puncte si pe cele 20 bonus.
