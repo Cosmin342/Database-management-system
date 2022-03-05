@@ -1,0 +1,19 @@
+DATABASE: farmacie
+
+Table "Uber" not found in database.
+Table "Bujii" not found in database.
+TABLE: Utilaje
+Consum                         Discount                       ID                             Pret/metru                     Tip                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.334600                       0.048500                       0.096700                       0.038100                       0.008100                       
+
+DATABASE: farmacie
+
+TABLE: Utilaje
+Consum                         Discount                       ID                             Pret/metru                     Tip                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Uber" not found in database.
+Table "Uber" not found in database.
+Table "Ambientale" not found in database.
+Table "Uber" not found in database.

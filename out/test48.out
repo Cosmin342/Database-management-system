@@ -1,0 +1,103 @@
+DATABASE: universitate
+
+TABLE: Bujii
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+Table "Echipamente" not found in database.
+TABLE: Bujii
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+Table "Studente" not found in database.
+TABLE: Bujii
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+240                            155                            
+
+DATABASE: universitate
+
+TABLE: Bujii
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+240                            155                            
+172                            231                            
+
+TABLE: Balast
+Pret/metru                     Total                          
+------------------------------ ------------------------------ 
+0.911100                       0.261000                       
+0.954300                       0.052000                       
+0.649600                       0.376800                       
+
+Table "Studente" not found in database.
+TABLE: Bujii
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+240                            155                            
+172                            231                            
+106                            64                             
+
+Table "Balast" does not contain column "Pret/bucata".
+Table "Studente" not found in database.
+Table "Ambientale" not found in database.
+DATABASE: universitate
+
+TABLE: Bujii
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+240                            155                            
+
+TABLE: Balast
+Pret/metru                     Total                          
+------------------------------ ------------------------------ 
+0.911100                       0.261000                       
+0.954300                       0.052000                       
+0.649600                       0.376800                       
+0.739900                       0.379600                       
+0.347600                       0.708900                       
+
+TABLE: Camioane
+Pret/bucata                    Total                          Discount                       Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+ID                             Garantie                       Tara_Origine                   Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Foster                         Hall                           pollution                      Annie                          
+
+DATABASE: universitate
+
+TABLE: Bujii
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+240                            155                            
+
+TABLE: Balast
+Pret/metru                     Total                          
+------------------------------ ------------------------------ 
+0.911100                       0.261000                       
+0.954300                       0.052000                       
+0.649600                       0.376800                       
+0.739900                       0.379600                       
+0.347600                       0.708900                       
+
+TABLE: Camioane
+Pret/bucata                    Total                          Discount                       Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+ID                             Garantie                       Tara_Origine                   Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Foster                         Hall                           pollution                      Annie                          
+
+Table "Studente" not found in database.
+Table "Elevi" does not contain column "Nume".
+TABLE: Fainoase
+Rezervate                      Nr_Defecte                     Disponibile                    Societati_Comerciale           Rating                         ID                             Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Denumire                       ID                             Strada                         Garantie                       Localitate                     Importator                     Tara_Origine                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+

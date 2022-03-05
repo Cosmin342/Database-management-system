@@ -1,0 +1,50 @@
+DATABASE: haine
+
+TABLE: Economie
+Rating                         Restantieri                    
+------------------------------ ------------------------------ 
+
+DATABASE: haine
+
+TABLE: Economie
+Rating                         Restantieri                    
+------------------------------ ------------------------------ 
+
+Table "Racoritoare" not found in database.
+TABLE: Economie
+Rating                         Restantieri                    
+------------------------------ ------------------------------ 
+235                            245                            
+158                            218                            
+
+Table "Profesori" not found in database.
+TABLE: Economie
+Rating                         Restantieri                    
+------------------------------ ------------------------------ 
+235                            245                            
+158                            218                            
+
+DATABASE: haine
+
+TABLE: Economie
+Rating                         Restantieri                    
+------------------------------ ------------------------------ 
+235                            245                            
+158                            218                            
+120                            241                            
+
+TABLE: Oameni
+Tara_Origine                   Strada                         Garantie                       Prenume                        Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Oameni
+Tara_Origine                   Strada                         Garantie                       Prenume                        Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+apparel                        impolite                       rich                           Turner                         Young                          
+
+TABLE: Oameni
+Tara_Origine                   Strada                         Garantie                       Prenume                        Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+apparel                        impolite                       rich                           Turner                         Young                          
+
+Table "Oameni" does not contain column "ID".

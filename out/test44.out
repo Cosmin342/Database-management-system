@@ -1,0 +1,91 @@
+Table "Racoritoare" not found in database.
+Table "Elevi" not found in database.
+Table "Racoritoare" not found in database.
+Table "Racoritoare" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Bursieri
+Nume                           Denumire                       Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Parker                         dazzling                       Todd                           yawn                           Alexander                      
+
+TABLE: Doctori
+Localitate                     Regiune                        Nume                           Denumire                       Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: asociatie_locatari
+
+TABLE: Bursieri
+Nume                           Denumire                       Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Parker                         dazzling                       Todd                           yawn                           Alexander                      
+Donald                         Keith                          round                          past                           Elizabeth                      
+handy                          dead                           Irene                          Gonzales                       Stephen                        
+
+TABLE: Doctori
+Localitate                     Regiune                        Nume                           Denumire                       Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Racoritoare" not found in database.
+TABLE: Doctori
+Localitate                     Regiune                        Nume                           Denumire                       Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Howard                         Lewis                          clap                           Lillian                        development                    Patricia                       
+
+Table "Racoritoare" not found in database.
+Table "Ambientale" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Bursieri
+Nume                           Denumire                       Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Parker                         dazzling                       Todd                           yawn                           Alexander                      
+Donald                         Keith                          round                          past                           Elizabeth                      
+handy                          dead                           Irene                          Gonzales                       Stephen                        
+Jack                           Gregory                        ice                            Baker                          Griffin                        
+
+TABLE: Doctori
+Localitate                     Regiune                        Nume                           Denumire                       Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Howard                         Lewis                          clap                           Lillian                        development                    Patricia                       
+
+Table "Echipari" not found in database.
+Table "Bursieri" does not contain column "Localitate".
+DATABASE: asociatie_locatari
+
+TABLE: Bursieri
+Nume                           Denumire                       Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Parker                         dazzling                       Todd                           yawn                           Alexander                      
+Donald                         Keith                          round                          past                           Elizabeth                      
+handy                          dead                           Irene                          Gonzales                       Stephen                        
+Jack                           Gregory                        ice                            Baker                          Griffin                        
+
+TABLE: Doctori
+Localitate                     Regiune                        Nume                           Denumire                       Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Howard                         Lewis                          clap                           Lillian                        development                    Patricia                       
+
+Table "Racoritoare" not found in database.
+Table "Racoritoare" not found in database.
+Table "Bursieri" does not contain column "ID".
+TABLE: Obiecte
+ID                             Tip                            Total                          Discount                       Pret/bucata                    TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Nume                           Denumire                       Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Parker                         dazzling                       Todd                           yawn                           Alexander                      
+Donald                         Keith                          round                          past                           Elizabeth                      
+handy                          dead                           Irene                          Gonzales                       Stephen                        
+Jack                           Gregory                        ice                            Baker                          Griffin                        
+continue                       lunch                          squeal                         Perez                          Patricia                       
+
+Table "Doctori" not found in database.
+TABLE: Electronice
+Restantieri                    Rezervate                      Rating                         Societati_Comerciale           Nr_Defecte                     Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Utilaje" not found in database.
+Table "Racoritoare" not found in database.

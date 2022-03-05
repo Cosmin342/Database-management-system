@@ -1,0 +1,21 @@
+Table "Camioane" not found in database.
+Table "Camioane" not found in database.
+Table "Camioane" not found in database.
+Table "Echipari" not found in database.
+Table "Echipari" not found in database.
+Table "Echipari" not found in database.
+Table "Super_Cars" not found in database.
+DATABASE: depozit_auchan
+
+TABLE: Asistenti
+Localitate                     Denumire                       Garantie                       
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Mirodenii
+Consum                         Pret/metru                     Discount                       Pret/bucata                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Marcaje                        Olimpici                       Rezervate                      Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+

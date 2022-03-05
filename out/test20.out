@@ -1,0 +1,69 @@
+TABLE: Angajati
+Denumire                       Localitate                     Regiune                        
+------------------------------ ------------------------------ ------------------------------ 
+
+Table "Linoleum" does not contain column "Societati_Comerciale".
+Table "Linoleum" does not contain column "Cantitate".
+DATABASE: parc_auto
+
+TABLE: Angajati
+Denumire                       Localitate                     Regiune                        
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Salarii
+ID                             Salariu_baza                   TVA                            Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.726800                       0.498700                       0.571100                       0.205200                       
+
+TABLE: Linoleum
+Rezervate                      Disponibile                    Rating                         Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+47                             27                             240                            1                              
+
+TABLE: Angajati
+Denumire                       Localitate                     Regiune                        
+------------------------------ ------------------------------ ------------------------------ 
+
+Table "Uber" not found in database.
+Table "Angajati" not found in database.
+DATABASE: parc_auto
+
+TABLE: Salarii
+ID                             Salariu_baza                   TVA                            Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.726800                       0.498700                       0.571100                       0.205200                       
+
+TABLE: Linoleum
+Rezervate                      Disponibile                    Rating                         Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+47                             27                             240                            1                              
+
+TABLE: Echipamente
+Localitate                     
+------------------------------ 
+
+TABLE: Obiecte
+Pret/metru                     Salariu_baza                   TVA                            ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: parc_auto
+
+TABLE: Salarii
+ID                             Salariu_baza                   TVA                            Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.726800                       0.498700                       0.571100                       0.205200                       
+
+TABLE: Linoleum
+Rezervate                      Disponibile                    Rating                         Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+47                             27                             240                            1                              
+
+TABLE: Echipamente
+Localitate                     
+------------------------------ 
+
+TABLE: Obiecte
+Pret/metru                     Salariu_baza                   TVA                            ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Echipamente" does not contain column "Denumire".

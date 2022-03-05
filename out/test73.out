@@ -1,0 +1,1362 @@
+Table "Mirodenii" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+Table "Masini" not found in database.
+Table "Angajati" not found in database.
+Table "Uber" not found in database.
+Table "Bujii" not found in database.
+Table "Economie" not found in database.
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Ambientale
+Rezervate                      ID                             Marcaje                        Cantitate                      Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+314018                         548806                         299475                         546454                         594598                         582882                         
+182808                         384130                         617571                         410087                         477026                         130441                         
+653864                         17387                          467262                         301765                         515079                         275346                         
+
+Table "Ambientale" does not contain column "Disponibile".
+Table "Angajati" not found in database.
+Table "Bursieri" not found in database.
+Table "Bujii" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Ambientale
+Rezervate                      ID                             Marcaje                        Cantitate                      Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+314018                         548806                         299475                         546454                         594598                         582882                         
+182808                         384130                         617571                         410087                         477026                         130441                         
+653864                         17387                          467262                         301765                         515079                         275346                         
+
+TABLE: Ambientale
+Rezervate                      ID                             Marcaje                        Cantitate                      Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+314018                         548806                         299475                         546454                         594598                         582882                         
+182808                         384130                         617571                         410087                         477026                         130441                         
+653864                         17387                          467262                         301765                         515079                         275346                         
+
+TABLE: Ambientale
+Rezervate                      ID                             Marcaje                        Cantitate                      Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+314018                         548806                         299475                         546454                         594598                         582882                         
+182808                         384130                         617571                         410087                         477026                         130441                         
+653864                         17387                          467262                         301765                         515079                         275346                         
+
+Table "Fainoase" not found in database.
+Table "Doctori" does not contain column "Garantie".
+Table "Profesori" not found in database.
+Table "Ambientale" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Echipamente" not found in database.
+Table "Ambientale" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Obiecte" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Masini" not found in database.
+Table "Ambientale" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Tropicale" not found in database.
+Table "Uber" not found in database.
+Table "Profesori" not found in database.
+Table "Masini" not found in database.
+Table "Bujii" not found in database.
+Table "Balast" not found in database.
+Table "Economie" not found in database.
+Table "Economie" not found in database.
+Table "Racoritoare" not found in database.
+Table "Mirodenii" not found in database.
+Table "Economie" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Economie" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Mirodenii" not found in database.
+Table "Echipari" not found in database.
+Table "Echipari" not found in database.
+Table "Echipamente" not found in database.
+Table "Bursieri" not found in database.
+Table "Instalatii" not found in database.
+Table "Ambientale" not found in database.
+Table "Super_Cars" not found in database.
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Economie" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+
+Table "Economie" not found in database.
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Racoritoare" not found in database.
+Table "Bujii" not found in database.
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Camioane" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+518861                         528727                         68854                          351350                         511295                         196152                         
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Elevi" not found in database.
+Table "Racoritoare" not found in database.
+Table "Asistenti" not found in database.
+Table "Bujii" not found in database.
+Table "Camioane" not found in database.
+Table "Bujii" not found in database.
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+Table "Instalatii" not found in database.
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+518861                         528727                         68854                          351350                         511295                         196152                         
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+518861                         528727                         68854                          351350                         511295                         196152                         
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+518861                         528727                         68854                          351350                         511295                         196152                         
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+518861                         528727                         68854                          351350                         511295                         196152                         
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+518861                         528727                         68854                          351350                         511295                         196152                         
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Masini" not found in database.
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Camioane" not found in database.
+Table "Angajati" does not contain column "Garantie".
+Table "Echipari" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.513800                       0.263800                       0.757700                       0.644900                       0.707600                       0.768400                       0.096200                       0.795000                       
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Studenti" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.513800                       0.263800                       0.757700                       0.644900                       0.707600                       0.768400                       0.096200                       0.795000                       
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+credit                         Watson                         refuse                         bells                          Kathryn                        Jenkins                        Louise                         
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Studenti" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Fainoase
+ID                             Nr_Defecte                     Olimpici                       Restantieri                    Disponibile                    Cantitate                      
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.513800                       0.263800                       0.757700                       0.644900                       0.707600                       0.768400                       0.096200                       0.795000                       
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+credit                         Watson                         refuse                         bells                          Kathryn                        Jenkins                        Louise                         
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Masini" not found in database.
+Table "Salarii" not found in database.
+Table "Economie" not found in database.
+Table "Electronice" not found in database.
+Table "Bere" does not contain column "Total".
+Table "Super_Cars" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.513800                       0.263800                       0.757700                       0.644900                       0.707600                       0.768400                       0.096200                       0.795000                       
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+credit                         Watson                         refuse                         bells                          Kathryn                        Jenkins                        Louise                         
+Foster                         Kathryn                        terrific                       Lewis                          coat                           development                    berry                          
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Fainoase" not found in database.
+Table "Fainoase" not found in database.
+Table "Fainoase" not found in database.
+Table "Ambientale" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+272255                         20371                          251268                         647983                         543947                         431021                         529786                         463545                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.513800                       0.263800                       0.757700                       0.644900                       0.707600                       0.768400                       0.096200                       0.795000                       
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+credit                         Watson                         refuse                         bells                          Kathryn                        Jenkins                        Louise                         
+Foster                         Kathryn                        terrific                       Lewis                          coat                           development                    berry                          
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Uber
+Discount                       Tip                            Salariu_baza                   Consum                         TVA                            Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Studenti" not found in database.
+Table "Racoritoare" not found in database.
+Table "Echipari" not found in database.
+Table "Economie" not found in database.
+Table "Studente" not found in database.
+Table "Mirodenii" not found in database.
+Table "Super_Cars" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+house                          Jane                           Timothy                        summer                         Linda                          evasive                        Lewis                          
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+272255                         20371                          251268                         647983                         543947                         431021                         529786                         463545                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.513800                       0.263800                       0.757700                       0.644900                       0.707600                       0.768400                       0.096200                       0.795000                       
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lisa                           crooked                        Gregory                        impolite                       noxious                        bells                          Cook                           Bonnie                         
+Gonzalez                       Reed                           Griffin                        wasteful                       King                           blind                          Rogers                         blade                          
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+credit                         Watson                         refuse                         bells                          Kathryn                        Jenkins                        Louise                         
+Foster                         Kathryn                        terrific                       Lewis                          coat                           development                    berry                          
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Diana                          Brooks                         fairies                        development                    Jerry                          Moore                          Bryant                         
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+event                          yellow                         eggnog                         Brooks                         Barnes                         Joyce                          Brown                          Carter                         
+
+TABLE: Uber
+Discount                       Tip                            Salariu_baza                   Consum                         TVA                            Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Masini" not found in database.
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+
+Table "Instalatii" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+house                          Jane                           Timothy                        summer                         Linda                          evasive                        Lewis                          
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+0.454900                       0.000500                       0.446900                       0.555300                       0.724500                       0.264800                       0.523000                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+272255                         20371                          251268                         647983                         543947                         431021                         529786                         463545                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.513800                       0.263800                       0.757700                       0.644900                       0.707600                       0.768400                       0.096200                       0.795000                       
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lisa                           crooked                        Gregory                        impolite                       noxious                        bells                          Cook                           Bonnie                         
+Gonzalez                       Reed                           Griffin                        wasteful                       King                           blind                          Rogers                         blade                          
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+credit                         Watson                         refuse                         bells                          Kathryn                        Jenkins                        Louise                         
+Foster                         Kathryn                        terrific                       Lewis                          coat                           development                    berry                          
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Diana                          Brooks                         fairies                        development                    Jerry                          Moore                          Bryant                         
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+event                          yellow                         eggnog                         Brooks                         Barnes                         Joyce                          Brown                          Carter                         
+
+TABLE: Uber
+Discount                       Tip                            Salariu_baza                   Consum                         TVA                            Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Studente
+Olimpici                       Societati_Comerciale           Cantitate                      Marcaje                        Restantieri                    Rating                         ID                             Disponibile                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lisa                           crooked                        Gregory                        impolite                       noxious                        bells                          Cook                           Bonnie                         
+Gonzalez                       Reed                           Griffin                        wasteful                       King                           blind                          Rogers                         blade                          
+
+Table "Economie" not found in database.
+DATABASE: mobilier
+
+TABLE: Doctori
+ID                             Importator                     Denumire                       Nume                           Strada                         Regiune                        Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Paula                          secret                         uptight                        escape                         Larry                          delay                          remind                         
+blade                          Rose                           Shawn                          Rivera                         Griffin                        Jane                           street                         
+house                          Jane                           Timothy                        summer                         Linda                          evasive                        Lewis                          
+
+TABLE: Bere
+Tip                            Impozit                        Salariu_baza                   Consum                         ID                             Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.776100                       0.038700                       0.718300                       0.386300                       0.284200                       0.889700                       0.404100                       
+0.464400                       0.071600                       0.410100                       0.984900                       0.300500                       0.337200                       0.941500                       
+0.454900                       0.000500                       0.446900                       0.555300                       0.724500                       0.264800                       0.523000                       
+0.178200                       0.200800                       0.960500                       0.043100                       0.554700                       0.223800                       0.434300                       
+
+TABLE: Angajati
+Nume                           Importator                     ID                             Localitate                     Denumire                       Tara_Origine                   Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rating                         Cantitate                      Disponibile                    Rezervate                      Restantieri                    Marcaje                        Olimpici                       ID                             
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+531506                         511444                         231754                         236441                         511538                         616721                         292809                         295717                         
+272255                         20371                          251268                         647983                         543947                         431021                         529786                         463545                         
+
+TABLE: Profesori
+Prenume                        Garantie                       Localitate                     ID                             Tara_Origine                   Regiune                        Strada                         Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Perez                          Bryant                         Campbell                       Scott                          hour                           Irene                          Long                           Martha                         
+Brooks                         Baker                          hour                           Powell                         change                         Coleman                        cry                            Powell                         
+
+TABLE: Balast
+Discount                       Consum                         Pret/bucata                    ID                             Pret/metru                     Impozit                        Salariu_baza                   Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.513800                       0.263800                       0.757700                       0.644900                       0.707600                       0.768400                       0.096200                       0.795000                       
+
+TABLE: Tropicale
+Rezervate                      Societati_Comerciale           Disponibile                    Rating                         Nr_Defecte                     Restantieri                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Localitate                     ID                             Nume                           Prenume                        Tara_Origine                   Strada                         Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+rich                           Scott                          luxuriant                      lying                          Bonnie                         spiteful                       keen                           
+simple                         Moore                          test                           pet                            straight                       Hill                           evasive                        
+
+TABLE: Oameni
+Nume                           ID                             Prenume                        Importator                     Denumire                       Regiune                        Tara_Origine                   Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lisa                           crooked                        Gregory                        impolite                       noxious                        bells                          Cook                           Bonnie                         
+Gonzalez                       Reed                           Griffin                        wasteful                       King                           blind                          Rogers                         blade                          
+
+TABLE: Bursieri
+Strada                         Nume                           Denumire                       ID                             Localitate                     Tara_Origine                   Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+credit                         Watson                         refuse                         bells                          Kathryn                        Jenkins                        Louise                         
+Foster                         Kathryn                        terrific                       Lewis                          coat                           development                    berry                          
+
+TABLE: Asistenti
+Regiune                        Localitate                     ID                             Tara_Origine                   Denumire                       Nume                           Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Diana                          Brooks                         fairies                        development                    Jerry                          Moore                          Bryant                         
+
+TABLE: Echipamente
+Garantie                       Nume                           Regiune                        Denumire                       Strada                         ID                             Prenume                        Importator                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+event                          yellow                         eggnog                         Brooks                         Barnes                         Joyce                          Brown                          Carter                         
+
+TABLE: Uber
+Discount                       Tip                            Salariu_baza                   Consum                         TVA                            Total                          
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Studente
+Olimpici                       Societati_Comerciale           Cantitate                      Marcaje                        Restantieri                    Rating                         ID                             Disponibile                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+

@@ -1,0 +1,22 @@
+Table "Camioane" does not contain column "TVA".
+DATABASE: florarie
+
+TABLE: Camioane
+Pret/metru                     
+------------------------------ 
+
+TABLE: Bujii
+Marcaje                        ID                             Cantitate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+Table "Camioane" not found in database.
+Table "Camioane" not found in database.
+TABLE: Angajati
+Localitate                     
+------------------------------ 
+
+Table "Angajati" does not contain column "Regiune".
+Table "Camioane" not found in database.
+Table "Angajati" does not contain column "Importator".
+Table "Studenti" not found in database.
+Table "Camioane" not found in database.

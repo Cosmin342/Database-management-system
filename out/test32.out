@@ -1,0 +1,59 @@
+DATABASE: masini_fabrica
+
+TABLE: Doctori
+Regiune                        Strada                         Prenume                        Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Denumire                       Regiune                        
+------------------------------ ------------------------------ 
+
+Table "Doctori" does not contain column "ID".
+DATABASE: masini_fabrica
+
+TABLE: Doctori
+Regiune                        Strada                         Prenume                        Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Denumire                       Regiune                        
+------------------------------ ------------------------------ 
+Jennifer                       motionless                     
+
+TABLE: Doctori
+Regiune                        Strada                         Prenume                        Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Doctori" does not contain column "ID".
+DATABASE: masini_fabrica
+
+TABLE: Doctori
+Regiune                        Strada                         Prenume                        Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+snatch                         cluttered                      Evelyn                         Edward                         
+Hall                           shape                          refuse                         Parker                         
+
+TABLE: Studenti
+Denumire                       Regiune                        
+------------------------------ ------------------------------ 
+Jennifer                       motionless                     
+subtract                       tickle                         
+
+TABLE: Profesori
+Strada                         Localitate                     
+------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Denumire                       Regiune                        
+------------------------------ ------------------------------ 
+Jennifer                       motionless                     
+subtract                       tickle                         
+
+Table "Studenti" does not contain column "Prenume".
+TABLE: Studenti
+Denumire                       Regiune                        
+------------------------------ ------------------------------ 
+Jennifer                       motionless                     
+subtract                       tickle                         
+Jack                           trace                          
+

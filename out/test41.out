@@ -1,0 +1,122 @@
+Table "Echipari" not found in database.
+Table "Linoleum" does not contain column "Rezervate".
+TABLE: Linoleum
+Olimpici                       Marcaje                        
+------------------------------ ------------------------------ 
+118                            10                             
+163                            168                            
+
+Table "Asistenti" not found in database.
+Table "Salarii" does not contain column "Total".
+Table "Utilaje" not found in database.
+DATABASE: universitate
+
+TABLE: Linoleum
+Olimpici                       Marcaje                        
+------------------------------ ------------------------------ 
+118                            10                             
+163                            168                            
+54                             216                            
+
+TABLE: Salarii
+Salariu_baza                   Discount                       TVA                            Consum                         Pret/bucata                    Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Super_Cars
+ID                             Localitate                     Garantie                       Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Echipamente" does not contain column "Nume".
+Table "Super_Cars" does not contain column "Tara_Origine".
+Table "Obiecte" not found in database.
+Table "Salarii" does not contain column "Total".
+Table "Balast" not found in database.
+TABLE: Super_Cars
+ID                             Localitate                     Garantie                       Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+delay                          summer                         unique                         Denise                         Carter                         
+Patterson                      impossible                     Randy                          Nicholas                       damaging                       
+hungry                         Randy                          Carter                         dead                           Torres                         
+
+Table "Salarii" does not contain column "Impozit".
+Table "Obiecte" not found in database.
+Table "Angajati" does not contain column "Denumire".
+TABLE: Salarii
+Salariu_baza                   Discount                       TVA                            Consum                         Pret/bucata                    Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.557700                       0.480200                       0.725400                       0.358400                       0.469800                       0.160000                       
+
+DATABASE: universitate
+
+TABLE: Linoleum
+Olimpici                       Marcaje                        
+------------------------------ ------------------------------ 
+118                            10                             
+163                            168                            
+54                             216                            
+
+TABLE: Salarii
+Salariu_baza                   Discount                       TVA                            Consum                         Pret/bucata                    Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.557700                       0.480200                       0.725400                       0.358400                       0.469800                       0.160000                       
+
+TABLE: Super_Cars
+ID                             Localitate                     Garantie                       Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+delay                          summer                         unique                         Denise                         Carter                         
+Patterson                      impossible                     Randy                          Nicholas                       damaging                       
+hungry                         Randy                          Carter                         dead                           Torres                         
+
+TABLE: Echipamente
+Strada                         Tara_Origine                   
+------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Tara_Origine                   Localitate                     
+------------------------------ ------------------------------ 
+
+TABLE: Bujii
+Nr_Defecte                     Marcaje                        Restantieri                    Rezervate                      Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bujii
+Nr_Defecte                     Marcaje                        Restantieri                    Rezervate                      Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: universitate
+
+TABLE: Linoleum
+Olimpici                       Marcaje                        
+------------------------------ ------------------------------ 
+118                            10                             
+163                            168                            
+54                             216                            
+
+TABLE: Salarii
+Salariu_baza                   Discount                       TVA                            Consum                         Pret/bucata                    Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.557700                       0.480200                       0.725400                       0.358400                       0.469800                       0.160000                       
+
+TABLE: Super_Cars
+ID                             Localitate                     Garantie                       Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+delay                          summer                         unique                         Denise                         Carter                         
+Patterson                      impossible                     Randy                          Nicholas                       damaging                       
+hungry                         Randy                          Carter                         dead                           Torres                         
+
+TABLE: Echipamente
+Strada                         Tara_Origine                   
+------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Tara_Origine                   Localitate                     
+------------------------------ ------------------------------ 
+
+TABLE: Bujii
+Nr_Defecte                     Marcaje                        Restantieri                    Rezervate                      Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Instalatii
+Pret/bucata                    Discount                       TVA                            
+------------------------------ ------------------------------ ------------------------------ 
+

@@ -1,0 +1,77 @@
+Table "Tropicale" not found in database.
+Table "Tropicale" not found in database.
+Table "Tropicale" not found in database.
+TABLE: Bursieri
+ID                             
+------------------------------ 
+bells                          
+
+TABLE: Bursieri
+ID                             
+------------------------------ 
+bells                          
+
+Table "Bursieri" does not contain column "Importator".
+Table "Tropicale" not found in database.
+Table "Bursieri" not found in database.
+DATABASE: depozit_auchan
+
+TABLE: Balast
+Tip                            Total                          TVA                            Discount                       Pret/bucata                    Salariu_baza                   Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Bursieri" not found in database.
+DATABASE: depozit_auchan
+
+TABLE: Balast
+Tip                            Total                          TVA                            Discount                       Pret/bucata                    Salariu_baza                   Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Tropicale" not found in database.
+Table "Utilaje" not found in database.
+Table "Tropicale" not found in database.
+TABLE: Economie
+Cantitate                      Marcaje                        Restantieri                    ID                             Disponibile                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+187                            203                            65                             101                            90                             
+
+Table "Tropicale" not found in database.
+Table "Economie" does not contain column "Rezervate".
+Table "Echipari" not found in database.
+Table "Salarii" not found in database.
+DATABASE: depozit_auchan
+
+TABLE: Balast
+Tip                            Total                          TVA                            Discount                       Pret/bucata                    Salariu_baza                   Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Economie
+Cantitate                      Marcaje                        Restantieri                    ID                             Disponibile                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+187                            203                            65                             101                            90                             
+
+TABLE: Bere
+Consum                         Impozit                        Pret/bucata                    Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: depozit_auchan
+
+TABLE: Balast
+Tip                            Total                          TVA                            Discount                       Pret/bucata                    Salariu_baza                   Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Economie
+Cantitate                      Marcaje                        Restantieri                    ID                             Disponibile                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+187                            203                            65                             101                            90                             
+182                            90                             182                            110                            225                            
+
+TABLE: Bere
+Consum                         Impozit                        Pret/bucata                    Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Ambientale
+Societati_Comerciale           Cantitate                      Marcaje                        
+------------------------------ ------------------------------ ------------------------------ 
+
+Table "Bursieri" not found in database.
