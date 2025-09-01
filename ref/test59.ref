@@ -1,0 +1,48 @@
+TABLE: Echipari
+Marcaje                        Disponibile                    ID                             Cantitate                      Nr_Defecte                     Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+134                            228                            40                             235                            231                            142                            
+130                            5                              139                            127                            123                            127                            
+
+Table "Tropicale" not found in database.
+Table "Echipari" not found in database.
+Table "Echipari" not found in database.
+Table "Echipari" not found in database.
+Table "Oameni" not found in database.
+Table "Oameni" not found in database.
+Table "Oameni" not found in database.
+Table "Echipari" not found in database.
+DATABASE: restaurant
+
+Table "Echipari" not found in database.
+Table "Echipari" not found in database.
+Table "Oameni" not found in database.
+Table "Oameni" not found in database.
+Table "Oameni" not found in database.
+Table "Balast" does not contain column "Salariu_baza".
+Table "Mirodenii" not found in database.
+Table "Oameni" not found in database.
+Table "Echipari" not found in database.
+Table "Echipari" not found in database.
+Table "Echipari" not found in database.
+Table "Echipari" not found in database.
+Table "Elevi" does not contain column "Garantie".
+Table "Bujii" not found in database.
+Table "Echipari" not found in database.
+Table "Oameni" not found in database.
+DATABASE: restaurant
+
+TABLE: Balast
+Pret/metru                     
+------------------------------ 
+0.755400                       
+
+TABLE: Elevi
+Localitate                     
+------------------------------ 
+Linda                          
+
+TABLE: Studenti
+Prenume                        Localitate                     ID                             Nume                           Importator                     Regiune                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+

@@ -1,0 +1,233 @@
+DATABASE: florarie
+
+TABLE: Elevi
+Localitate                     Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: florarie
+
+TABLE: Elevi
+Localitate                     Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Regiune                        
+------------------------------ 
+Carter                         
+
+DATABASE: florarie
+
+TABLE: Elevi
+Localitate                     Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Regiune                        
+------------------------------ 
+Carter                         
+
+TABLE: Echipari
+Nr_Defecte                     
+------------------------------ 
+
+TABLE: Electronice
+Restantieri                    
+------------------------------ 
+243                            
+
+TABLE: Fainoase
+Restantieri                    Olimpici                       Cantitate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Super_Cars
+Strada                         ID                             Nume                           Garantie                       Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Regiune                        
+------------------------------ 
+Carter                         
+
+TABLE: Fainoase
+Restantieri                    Olimpici                       Cantitate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: florarie
+
+TABLE: Elevi
+Localitate                     Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Regiune                        
+------------------------------ 
+Carter                         
+
+TABLE: Echipari
+Nr_Defecte                     
+------------------------------ 
+
+TABLE: Electronice
+Restantieri                    
+------------------------------ 
+243                            
+
+TABLE: Fainoase
+Restantieri                    Olimpici                       Cantitate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Super_Cars
+Strada                         ID                             Nume                           Garantie                       Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Economie
+Marcaje                        
+------------------------------ 
+
+DATABASE: florarie
+
+TABLE: Elevi
+Localitate                     Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Regiune                        
+------------------------------ 
+Carter                         
+ancient                        
+
+TABLE: Echipari
+Nr_Defecte                     
+------------------------------ 
+235                            
+
+TABLE: Electronice
+Restantieri                    
+------------------------------ 
+243                            
+
+TABLE: Fainoase
+Restantieri                    Olimpici                       Cantitate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Super_Cars
+Strada                         ID                             Nume                           Garantie                       Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Economie
+Marcaje                        
+------------------------------ 
+
+TABLE: Bujii
+Restantieri                    Nr_Defecte                     Societati_Comerciale           Disponibile                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Electronice" does not contain column "Rating".
+Table "Studenti" does not contain column "Nume".
+DATABASE: florarie
+
+TABLE: Elevi
+Localitate                     Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Regiune                        
+------------------------------ 
+Carter                         
+ancient                        
+
+TABLE: Echipari
+Nr_Defecte                     
+------------------------------ 
+235                            
+
+TABLE: Electronice
+Restantieri                    
+------------------------------ 
+243                            
+
+TABLE: Fainoase
+Restantieri                    Olimpici                       Cantitate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Super_Cars
+Strada                         ID                             Nume                           Garantie                       Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Economie
+Marcaje                        
+------------------------------ 
+47                             
+
+TABLE: Bujii
+Restantieri                    Nr_Defecte                     Societati_Comerciale           Disponibile                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Super_Cars
+Strada                         ID                             Nume                           Garantie                       Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Electronice
+Restantieri                    
+------------------------------ 
+243                            
+
+DATABASE: florarie
+
+TABLE: Elevi
+Localitate                     Strada                         Nume                           
+------------------------------ ------------------------------ ------------------------------ 
+building                       evasive                        abandoned                      
+terrific                       threatening                    Phillip                        
+Martinez                       Ramirez                        engine                         
+
+TABLE: Studenti
+Regiune                        
+------------------------------ 
+Carter                         
+ancient                        
+Griffin                        
+
+TABLE: Echipari
+Nr_Defecte                     
+------------------------------ 
+235                            
+
+TABLE: Electronice
+Restantieri                    
+------------------------------ 
+243                            
+
+TABLE: Fainoase
+Restantieri                    Olimpici                       Cantitate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Super_Cars
+Strada                         ID                             Nume                           Garantie                       Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Economie
+Marcaje                        
+------------------------------ 
+47                             
+
+TABLE: Bujii
+Restantieri                    Nr_Defecte                     Societati_Comerciale           Disponibile                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+Pret/bucata                    ID                             Tip                            Total                          Pret/metru                     Impozit                        Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Camioane
+Consum                         Impozit                        Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Camioane
+Consum                         Impozit                        Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Masini
+ID                             Impozit                        Tip                            Discount                       Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+

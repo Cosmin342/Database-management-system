@@ -1,0 +1,36 @@
+DATABASE: mobilier
+
+TABLE: Camioane
+Tip                            Pret/metru                     ID                             Salariu_baza                   Pret/bucata                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Camioane
+Tip                            Pret/metru                     ID                             Salariu_baza                   Pret/bucata                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.091700                       0.948200                       0.359800                       0.831000                       0.263100                       
+
+Table "Uber" not found in database.
+Table "Profesori" not found in database.
+TABLE: Camioane
+Tip                            Pret/metru                     ID                             Salariu_baza                   Pret/bucata                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Ambientale
+Rezervate                      
+------------------------------ 
+133                            
+
+DATABASE: mobilier
+
+TABLE: Camioane
+Tip                            Pret/metru                     ID                             Salariu_baza                   Pret/bucata                    
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.091700                       0.948200                       0.359800                       0.831000                       0.263100                       
+
+TABLE: Ambientale
+Rezervate                      
+------------------------------ 
+133                            
+
+Table "Utilaje" does not contain column "Pret/metru".
+Table "Ambientale" does not contain column "Cantitate".

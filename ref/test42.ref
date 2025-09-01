@@ -1,0 +1,112 @@
+TABLE: Uber
+ID                             Pret/bucata                    Salariu_baza                   Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Uber
+ID                             Pret/bucata                    Salariu_baza                   Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.010600                       0.033400                       0.883700                       0.374600                       
+
+Table "Balast" does not contain column "Pret/metru".
+DATABASE: asociatie_locatari
+
+TABLE: Balast
+Impozit                        ID                             TVA                            
+------------------------------ ------------------------------ ------------------------------ 
+0.451900                       0.573600                       0.477200                       
+
+Table "Uber" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Balast
+Impozit                        ID                             TVA                            
+------------------------------ ------------------------------ ------------------------------ 
+0.451900                       0.573600                       0.477200                       
+
+DATABASE: asociatie_locatari
+
+TABLE: Balast
+Impozit                        ID                             TVA                            
+------------------------------ ------------------------------ ------------------------------ 
+0.451900                       0.573600                       0.477200                       
+
+Table "Electronice" not found in database.
+Table "Uber" not found in database.
+Table "Uber" not found in database.
+Table "Uber" not found in database.
+TABLE: Fainoase
+Rating                         Marcaje                        Restantieri                    Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Racoritoare" does not contain column "Marcaje".
+Table "Uber" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Balast
+Impozit                        ID                             TVA                            
+------------------------------ ------------------------------ ------------------------------ 
+0.451900                       0.573600                       0.477200                       
+0.743100                       0.528300                       0.041000                       
+0.003100                       0.559100                       0.641900                       
+0.893500                       0.836400                       0.925900                       
+
+TABLE: Fainoase
+Rating                         Marcaje                        Restantieri                    Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bujii
+Marcaje                        
+------------------------------ 
+
+TABLE: Racoritoare
+Olimpici                       Cantitate                      
+------------------------------ ------------------------------ 
+
+TABLE: Racoritoare
+Olimpici                       Cantitate                      
+------------------------------ ------------------------------ 
+
+Table "Masini" not found in database.
+Table "Tropicale" not found in database.
+Table "Racoritoare" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Balast
+Impozit                        ID                             TVA                            
+------------------------------ ------------------------------ ------------------------------ 
+0.451900                       0.573600                       0.477200                       
+0.743100                       0.528300                       0.041000                       
+0.003100                       0.559100                       0.641900                       
+0.893500                       0.836400                       0.925900                       
+0.068400                       0.228900                       0.612800                       
+
+TABLE: Fainoase
+Rating                         Marcaje                        Restantieri                    Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+125                            32                             224                            79                             
+
+TABLE: Bujii
+Marcaje                        
+------------------------------ 
+
+DATABASE: asociatie_locatari
+
+TABLE: Balast
+Impozit                        ID                             TVA                            
+------------------------------ ------------------------------ ------------------------------ 
+0.451900                       0.573600                       0.477200                       
+0.743100                       0.528300                       0.041000                       
+0.003100                       0.559100                       0.641900                       
+0.893500                       0.836400                       0.925900                       
+0.068400                       0.228900                       0.612800                       
+0.891800                       0.675800                       0.375900                       
+
+TABLE: Fainoase
+Rating                         Marcaje                        Restantieri                    Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+125                            32                             224                            79                             
+
+TABLE: Bujii
+Marcaje                        
+------------------------------ 
+

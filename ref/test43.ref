@@ -1,0 +1,150 @@
+DATABASE: mobilier
+
+TABLE: Racoritoare
+Rezervate                      Olimpici                       Marcaje                        Restantieri                    Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+110                            172                            249                            136                            245                            
+255                            70                             173                            204                            179                            
+
+DATABASE: mobilier
+
+TABLE: Racoritoare
+Rezervate                      Olimpici                       Marcaje                        Restantieri                    Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+110                            172                            249                            136                            245                            
+255                            70                             173                            204                            179                            
+
+Table "Racoritoare" does not contain column "Cantitate".
+TABLE: Racoritoare
+Rezervate                      Olimpici                       Marcaje                        Restantieri                    Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+110                            172                            249                            136                            245                            
+255                            70                             173                            204                            179                            
+
+Table "Elevi" does not contain column "Strada".
+Table "Utilaje" not found in database.
+TABLE: Racoritoare
+Rezervate                      Olimpici                       Marcaje                        Restantieri                    Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+110                            172                            249                            136                            245                            
+255                            70                             173                            204                            179                            
+139                            4                              142                            188                            205                            
+71                             229                            206                            139                            96                             
+176                            42                             70                             253                            199                            
+
+DATABASE: mobilier
+
+TABLE: Racoritoare
+Rezervate                      Olimpici                       Marcaje                        Restantieri                    Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+110                            172                            249                            136                            245                            
+255                            70                             173                            204                            179                            
+139                            4                              142                            188                            205                            
+71                             229                            206                            139                            96                             
+176                            42                             70                             253                            199                            
+
+TABLE: Elevi
+Denumire                       Garantie                       ID                             Importator                     Prenume                        Nume                           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Elevi" not found in database.
+Table "Elevi" not found in database.
+TABLE: Economie
+Rezervate                      Disponibile                    Cantitate                      Rating                         Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Studenti" does not contain column "Denumire".
+Table "Uber" not found in database.
+DATABASE: mobilier
+
+TABLE: Racoritoare
+Rezervate                      Olimpici                       Marcaje                        Restantieri                    Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+110                            172                            249                            136                            245                            
+255                            70                             173                            204                            179                            
+139                            4                              142                            188                            205                            
+71                             229                            206                            139                            96                             
+176                            42                             70                             253                            199                            
+246                            42                             203                            239                            9                              
+61                             189                            155                            160                            246                            
+44                             250                            108                            25                             224                            
+
+TABLE: Bujii
+Disponibile                    Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Strada                         Localitate                     ID                             Importator                     Nume                           Tara_Origine                   Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+drip                           apathetic                      past                           bake                           lunch                          rustic                         Earl                           
+Elizabeth                      credit                         key                            Emily                          unique                         Turner                         Barnes                         
+
+TABLE: Economie
+Rezervate                      Disponibile                    Cantitate                      Rating                         Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+184                            114                            150                            29                             194                            
+
+DATABASE: mobilier
+
+TABLE: Racoritoare
+Rezervate                      Olimpici                       Marcaje                        Restantieri                    Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+110                            172                            249                            136                            245                            
+255                            70                             173                            204                            179                            
+139                            4                              142                            188                            205                            
+71                             229                            206                            139                            96                             
+176                            42                             70                             253                            199                            
+246                            42                             203                            239                            9                              
+61                             189                            155                            160                            246                            
+44                             250                            108                            25                             224                            
+
+TABLE: Bujii
+Disponibile                    Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Strada                         Localitate                     ID                             Importator                     Nume                           Tara_Origine                   Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+drip                           apathetic                      past                           bake                           lunch                          rustic                         Earl                           
+Elizabeth                      credit                         key                            Emily                          unique                         Turner                         Barnes                         
+
+TABLE: Economie
+Rezervate                      Disponibile                    Cantitate                      Rating                         Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+184                            114                            150                            29                             194                            
+
+DATABASE: mobilier
+
+TABLE: Racoritoare
+Rezervate                      Olimpici                       Marcaje                        Restantieri                    Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+110                            172                            249                            136                            245                            
+255                            70                             173                            204                            179                            
+139                            4                              142                            188                            205                            
+71                             229                            206                            139                            96                             
+176                            42                             70                             253                            199                            
+246                            42                             203                            239                            9                              
+61                             189                            155                            160                            246                            
+44                             250                            108                            25                             224                            
+
+TABLE: Bujii
+Disponibile                    Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+TABLE: Studenti
+Strada                         Localitate                     ID                             Importator                     Nume                           Tara_Origine                   Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+drip                           apathetic                      past                           bake                           lunch                          rustic                         Earl                           
+Elizabeth                      credit                         key                            Emily                          unique                         Turner                         Barnes                         
+Irene                          nu                             development                    Coleman                        Benjamin                       Diana                          squeal                         
+
+TABLE: Economie
+Rezervate                      Disponibile                    Cantitate                      Rating                         Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+184                            114                            150                            29                             194                            
+233                            36                             3                              86                             109                            
+
+TABLE: Bujii
+Disponibile                    Nr_Defecte                     
+------------------------------ ------------------------------ 
+

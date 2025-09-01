@@ -1,0 +1,51 @@
+DATABASE: site_de_socializare
+
+TABLE: Elevi
+Importator                     Regiune                        Garantie                       Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Cox                            apparel                        Melissa                        grade                          
+
+DATABASE: site_de_socializare
+
+TABLE: Elevi
+Importator                     Regiune                        Garantie                       Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Cox                            apparel                        Melissa                        grade                          
+
+Table "Elevi" does not contain column "Prenume".
+Table "Bere" not found in database.
+DATABASE: site_de_socializare
+
+TABLE: Elevi
+Importator                     Regiune                        Garantie                       Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Cox                            apparel                        Melissa                        grade                          
+
+TABLE: Camioane
+Pret/metru                     Total                          TVA                            Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.893100                       0.523000                       0.178000                       0.242400                       
+0.966700                       0.981900                       0.359300                       0.522900                       
+
+TABLE: Super_Cars
+Garantie                       Tara_Origine                   ID                             Localitate                     Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+sin                            Joyce                          Earl                           blind                          bake                           
+Patrick                        Coleman                        Lois                           balance                        wing                           
+
+TABLE: Studente
+Nr_Defecte                     Rating                         Marcaje                        Societati_Comerciale           Olimpici                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Elevi
+Importator                     Regiune                        Garantie                       Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Cox                            apparel                        Melissa                        grade                          
+
+Table "Bujii" not found in database.
+TABLE: Super_Cars
+Garantie                       Tara_Origine                   ID                             Localitate                     Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+sin                            Joyce                          Earl                           blind                          bake                           
+Patrick                        Coleman                        Lois                           balance                        wing                           
+

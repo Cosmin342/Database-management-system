@@ -1,0 +1,113 @@
+Table "Oameni" not found in database.
+Table "Salarii" not found in database.
+DATABASE: asociatie_locatari
+
+Table "Salarii" not found in database.
+Table "Salarii" not found in database.
+Table "Mirodenii" not found in database.
+Table "Salarii" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Profesori
+Denumire                       Garantie                       Localitate                     Nume                           Tara_Origine                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Economie
+Restantieri                    Rating                         
+------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+DATABASE: asociatie_locatari
+
+TABLE: Profesori
+Denumire                       Garantie                       Localitate                     Nume                           Tara_Origine                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Economie
+Restantieri                    Rating                         
+------------------------------ ------------------------------ 
+
+TABLE: Linoleum
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+DATABASE: asociatie_locatari
+
+TABLE: Economie
+Restantieri                    Rating                         
+------------------------------ ------------------------------ 
+189                            12                             
+
+TABLE: Linoleum
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+TABLE: Electronice
+Rezervate                      Societati_Comerciale           Rating                         
+------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: asociatie_locatari
+
+TABLE: Economie
+Restantieri                    Rating                         
+------------------------------ ------------------------------ 
+189                            12                             
+
+TABLE: Linoleum
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+TABLE: Electronice
+Rezervate                      Societati_Comerciale           Rating                         
+------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: asociatie_locatari
+
+TABLE: Economie
+Restantieri                    Rating                         
+------------------------------ ------------------------------ 
+189                            12                             
+
+TABLE: Linoleum
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+TABLE: Electronice
+Rezervate                      Societati_Comerciale           Rating                         
+------------------------------ ------------------------------ ------------------------------ 
+
+Table "Mirodenii" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Linoleum
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+
+TABLE: Electronice
+Rezervate                      Societati_Comerciale           Rating                         
+------------------------------ ------------------------------ ------------------------------ 
+204                            250                            19                             
+
+Table "Salarii" not found in database.
+Table "Linoleum" does not contain column "Disponibile".
+Table "Echipamente" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Salarii" not found in database.
+Table "Profesori" not found in database.
+DATABASE: asociatie_locatari
+
+TABLE: Linoleum
+Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ 
+71                             140                            
+
+TABLE: Electronice
+Rezervate                      Societati_Comerciale           Rating                         
+------------------------------ ------------------------------ ------------------------------ 
+204                            250                            19                             
+

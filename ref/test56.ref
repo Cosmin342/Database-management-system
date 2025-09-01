@@ -1,0 +1,156 @@
+Table "Tropicale" does not contain column "Cantitate".
+Table "Super_Cars" not found in database.
+DATABASE: parc_auto
+
+TABLE: Tropicale
+Marcaje                        Olimpici                       Restantieri                    
+------------------------------ ------------------------------ ------------------------------ 
+187                            102                            72                             
+215                            161                            126                            
+
+TABLE: Echipari
+ID                             Olimpici                       Marcaje                        
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Oameni
+ID                             Strada                         Importator                     Tara_Origine                   Garantie                       Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Oameni" does not contain column "Nume".
+Table "Doctori" not found in database.
+DATABASE: parc_auto
+
+TABLE: Echipari
+ID                             Olimpici                       Marcaje                        
+------------------------------ ------------------------------ ------------------------------ 
+42                             192                            28                             
+247                            151                            106                            
+
+TABLE: Oameni
+ID                             Strada                         Importator                     Tara_Origine                   Garantie                       Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Baker                          Price                          Anne                           Rose                           girls                          Ramirez                        
+Diane                          humorous                       workable                       probable                       Adams                          Jennifer                       
+
+DATABASE: parc_auto
+
+TABLE: Echipari
+ID                             Olimpici                       Marcaje                        
+------------------------------ ------------------------------ ------------------------------ 
+42                             192                            28                             
+247                            151                            106                            
+124                            166                            102                            
+
+TABLE: Oameni
+ID                             Strada                         Importator                     Tara_Origine                   Garantie                       Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Baker                          Price                          Anne                           Rose                           girls                          Ramirez                        
+Diane                          humorous                       workable                       probable                       Adams                          Jennifer                       
+
+TABLE: Studente
+Rezervate                      Societati_Comerciale           Rating                         Olimpici                       Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+164                            234                            180                            200                            115                            
+
+DATABASE: parc_auto
+
+TABLE: Echipari
+ID                             Olimpici                       Marcaje                        
+------------------------------ ------------------------------ ------------------------------ 
+42                             192                            28                             
+247                            151                            106                            
+124                            166                            102                            
+
+TABLE: Oameni
+ID                             Strada                         Importator                     Tara_Origine                   Garantie                       Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Baker                          Price                          Anne                           Rose                           girls                          Ramirez                        
+Diane                          humorous                       workable                       probable                       Adams                          Jennifer                       
+wing                           Jeremy                         thoughtful                     Gregory                        Baker                          Annie                          
+
+TABLE: Studente
+Rezervate                      Societati_Comerciale           Rating                         Olimpici                       Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+164                            234                            180                            200                            115                            
+
+TABLE: Doctori
+Importator                     Garantie                       
+------------------------------ ------------------------------ 
+
+TABLE: Electronice
+Olimpici                       Rezervate                      
+------------------------------ ------------------------------ 
+
+Table "Tropicale" not found in database.
+DATABASE: parc_auto
+
+TABLE: Echipari
+ID                             Olimpici                       Marcaje                        
+------------------------------ ------------------------------ ------------------------------ 
+42                             192                            28                             
+247                            151                            106                            
+124                            166                            102                            
+
+TABLE: Oameni
+ID                             Strada                         Importator                     Tara_Origine                   Garantie                       Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Baker                          Price                          Anne                           Rose                           girls                          Ramirez                        
+Diane                          humorous                       workable                       probable                       Adams                          Jennifer                       
+wing                           Jeremy                         thoughtful                     Gregory                        Baker                          Annie                          
+
+TABLE: Studente
+Rezervate                      Societati_Comerciale           Rating                         Olimpici                       Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+164                            234                            180                            200                            115                            
+
+TABLE: Doctori
+Importator                     Garantie                       
+------------------------------ ------------------------------ 
+
+TABLE: Electronice
+Olimpici                       Rezervate                      
+------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Tara_Origine                   Strada                         
+------------------------------ ------------------------------ 
+
+DATABASE: parc_auto
+
+TABLE: Echipari
+ID                             Olimpici                       Marcaje                        
+------------------------------ ------------------------------ ------------------------------ 
+42                             192                            28                             
+247                            151                            106                            
+124                            166                            102                            
+
+TABLE: Oameni
+ID                             Strada                         Importator                     Tara_Origine                   Garantie                       Regiune                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Baker                          Price                          Anne                           Rose                           girls                          Ramirez                        
+Diane                          humorous                       workable                       probable                       Adams                          Jennifer                       
+wing                           Jeremy                         thoughtful                     Gregory                        Baker                          Annie                          
+
+TABLE: Studente
+Rezervate                      Societati_Comerciale           Rating                         Olimpici                       Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+164                            234                            180                            200                            115                            
+
+TABLE: Doctori
+Importator                     Garantie                       
+------------------------------ ------------------------------ 
+
+TABLE: Electronice
+Olimpici                       Rezervate                      
+------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Tara_Origine                   Strada                         
+------------------------------ ------------------------------ 
+
+TABLE: Masini
+Tip                            TVA                            
+------------------------------ ------------------------------ 
+
+Table "Obiecte" not found in database.
+Table "Echipari" does not contain column "Societati_Comerciale".

@@ -1,0 +1,155 @@
+Table "Oameni" not found in database.
+TABLE: Obiecte
+TVA                            
+------------------------------ 
+
+TABLE: Obiecte
+TVA                            
+------------------------------ 
+
+TABLE: Ambientale
+Olimpici                       Restantieri                    ID                             Marcaje                        Nr_Defecte                     Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Nume                           Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: universitate
+
+TABLE: Linoleum
+ID                             
+------------------------------ 
+
+TABLE: Utilaje
+Tip                            Pret/metru                     
+------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Nume                           Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+TVA                            
+------------------------------ 
+0.452700                       
+
+TABLE: Ambientale
+Olimpici                       Restantieri                    ID                             Marcaje                        Nr_Defecte                     Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+ID                             
+------------------------------ 
+guarded                        
+
+Table "Utilaje" does not contain column "Discount".
+Table "Masini" not found in database.
+TABLE: Ambientale
+Olimpici                       Restantieri                    ID                             Marcaje                        Nr_Defecte                     Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+TVA                            
+------------------------------ 
+0.452700                       
+
+Table "Ambientale" does not contain column "Societati_Comerciale".
+DATABASE: universitate
+
+TABLE: Linoleum
+ID                             
+------------------------------ 
+
+TABLE: Utilaje
+Tip                            Pret/metru                     
+------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Nume                           Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ 
+Ward                           Brenda                         Cox                            
+
+TABLE: Obiecte
+TVA                            
+------------------------------ 
+0.452700                       
+
+TABLE: Ambientale
+Olimpici                       Restantieri                    ID                             Marcaje                        Nr_Defecte                     Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+172                            232                            28                             252                            72                             37                             
+10                             95                             113                            219                            65                             108                            
+
+Table "Angajati" not found in database.
+TABLE: Utilaje
+Tip                            Pret/metru                     
+------------------------------ ------------------------------ 
+0.048700                       0.199200                       
+0.924900                       0.266900                       
+
+Table "Angajati" not found in database.
+DATABASE: universitate
+
+TABLE: Linoleum
+ID                             
+------------------------------ 
+159                            
+
+TABLE: Utilaje
+Tip                            Pret/metru                     
+------------------------------ ------------------------------ 
+0.048700                       0.199200                       
+0.924900                       0.266900                       
+
+TABLE: Asistenti
+Nume                           Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ 
+Ward                           Brenda                         Cox                            
+
+TABLE: Ambientale
+Olimpici                       Restantieri                    ID                             Marcaje                        Nr_Defecte                     Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+172                            232                            28                             252                            72                             37                             
+10                             95                             113                            219                            65                             108                            
+
+TABLE: Linoleum
+ID                             
+------------------------------ 
+159                            
+
+Table "Obiecte" not found in database.
+DATABASE: universitate
+
+TABLE: Linoleum
+ID                             
+------------------------------ 
+159                            
+
+TABLE: Utilaje
+Tip                            Pret/metru                     
+------------------------------ ------------------------------ 
+0.048700                       0.199200                       
+0.924900                       0.266900                       
+
+TABLE: Asistenti
+Nume                           Importator                     Garantie                       
+------------------------------ ------------------------------ ------------------------------ 
+Ward                           Brenda                         Cox                            
+
+TABLE: Ambientale
+Olimpici                       Restantieri                    ID                             Marcaje                        Nr_Defecte                     Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+172                            232                            28                             252                            72                             37                             
+10                             95                             113                            219                            65                             108                            
+
+TABLE: Economie
+Societati_Comerciale           Restantieri                    Disponibile                    
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Ambientale
+Olimpici                       Restantieri                    ID                             Marcaje                        Nr_Defecte                     Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+172                            232                            28                             252                            72                             37                             
+10                             95                             113                            219                            65                             108                            
+

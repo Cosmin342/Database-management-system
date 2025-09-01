@@ -1,0 +1,23 @@
+TABLE: Mirodenii
+Pret/bucata                    Impozit                        ID                             
+------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: universitate
+
+TABLE: Mirodenii
+Pret/bucata                    Impozit                        ID                             
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+Pret/bucata                    
+------------------------------ 
+0.668600                       
+
+TABLE: Echipamente
+Tara_Origine                   Nume                           Importator                     
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Garantie                       Localitate                     
+------------------------------ ------------------------------ 
+

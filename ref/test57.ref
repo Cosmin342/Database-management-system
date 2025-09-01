@@ -1,0 +1,190 @@
+DATABASE: piese_auto
+
+TABLE: Echipamente
+Tara_Origine                   Importator                     Prenume                        Nume                           Denumire                       Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Patricia                       measure                        verdant                        Judith                         Patricia                       lying                          
+
+Table "Balast" not found in database.
+TABLE: Bursieri
+Prenume                        ID                             Importator                     Nume                           Strada                         Tara_Origine                   Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Prenume                        ID                             Importator                     Nume                           Strada                         Tara_Origine                   Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: piese_auto
+
+TABLE: Bursieri
+Prenume                        ID                             Importator                     Nume                           Strada                         Tara_Origine                   Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+aunt                           Julia                          Evelyn                         afterthought                   wrist                          eggnog                         brush                          
+Kathryn                        Timothy                        Jenkins                        synonymous                     Martinez                       Jimmy                          Rodriguez                      
+
+TABLE: Doctori
+Garantie                       Denumire                       Importator                     Regiune                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Salarii
+Consum                         Discount                       Total                          ID                             Pret/bucata                    Impozit                        Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Echipamente" not found in database.
+DATABASE: piese_auto
+
+TABLE: Bursieri
+Prenume                        ID                             Importator                     Nume                           Strada                         Tara_Origine                   Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+aunt                           Julia                          Evelyn                         afterthought                   wrist                          eggnog                         brush                          
+Kathryn                        Timothy                        Jenkins                        synonymous                     Martinez                       Jimmy                          Rodriguez                      
+
+TABLE: Doctori
+Garantie                       Denumire                       Importator                     Regiune                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Salarii
+Consum                         Discount                       Total                          ID                             Pret/bucata                    Impozit                        Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Economie
+ID                             Olimpici                       Rezervate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Instalatii
+Total                          
+------------------------------ 
+
+DATABASE: piese_auto
+
+TABLE: Bursieri
+Prenume                        ID                             Importator                     Nume                           Strada                         Tara_Origine                   Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+aunt                           Julia                          Evelyn                         afterthought                   wrist                          eggnog                         brush                          
+Kathryn                        Timothy                        Jenkins                        synonymous                     Martinez                       Jimmy                          Rodriguez                      
+
+TABLE: Doctori
+Garantie                       Denumire                       Importator                     Regiune                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Salarii
+Consum                         Discount                       Total                          ID                             Pret/bucata                    Impozit                        Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.981500                       0.937300                       0.750400                       0.009400                       0.972600                       0.818100                       0.379900                       
+
+TABLE: Economie
+ID                             Olimpici                       Rezervate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Instalatii
+Total                          
+------------------------------ 
+
+TABLE: Bursieri
+Prenume                        ID                             Importator                     Nume                           Strada                         Tara_Origine                   Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+aunt                           Julia                          Evelyn                         afterthought                   wrist                          eggnog                         brush                          
+Kathryn                        Timothy                        Jenkins                        synonymous                     Martinez                       Jimmy                          Rodriguez                      
+
+TABLE: Doctori
+Garantie                       Denumire                       Importator                     Regiune                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: piese_auto
+
+TABLE: Doctori
+Garantie                       Denumire                       Importator                     Regiune                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Sean                           coat                           Turner                         Hernandez                      ice                            
+
+TABLE: Salarii
+Consum                         Discount                       Total                          ID                             Pret/bucata                    Impozit                        Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.981500                       0.937300                       0.750400                       0.009400                       0.972600                       0.818100                       0.379900                       
+
+TABLE: Economie
+ID                             Olimpici                       Rezervate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Instalatii
+Total                          
+------------------------------ 
+0.928800                       
+
+TABLE: Balast
+Pret/metru                     ID                             
+------------------------------ ------------------------------ 
+
+TABLE: Echipari
+Olimpici                       Disponibile                    
+------------------------------ ------------------------------ 
+
+DATABASE: piese_auto
+
+TABLE: Doctori
+Garantie                       Denumire                       Importator                     Regiune                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Sean                           coat                           Turner                         Hernandez                      ice                            
+
+TABLE: Salarii
+Consum                         Discount                       Total                          ID                             Pret/bucata                    Impozit                        Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.981500                       0.937300                       0.750400                       0.009400                       0.972600                       0.818100                       0.379900                       
+
+TABLE: Economie
+ID                             Olimpici                       Rezervate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Instalatii
+Total                          
+------------------------------ 
+0.928800                       
+
+TABLE: Balast
+Pret/metru                     ID                             
+------------------------------ ------------------------------ 
+
+TABLE: Echipari
+Olimpici                       Disponibile                    
+------------------------------ ------------------------------ 
+
+Table "Bursieri" not found in database.
+DATABASE: piese_auto
+
+TABLE: Doctori
+Garantie                       Denumire                       Importator                     Regiune                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Sean                           coat                           Turner                         Hernandez                      ice                            
+
+TABLE: Salarii
+Consum                         Discount                       Total                          ID                             Pret/bucata                    Impozit                        Pret/metru                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.981500                       0.937300                       0.750400                       0.009400                       0.972600                       0.818100                       0.379900                       
+
+TABLE: Economie
+ID                             Olimpici                       Rezervate                      
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Instalatii
+Total                          
+------------------------------ 
+0.928800                       
+
+TABLE: Balast
+Pret/metru                     ID                             
+------------------------------ ------------------------------ 
+
+TABLE: Echipari
+Olimpici                       Disponibile                    
+------------------------------ ------------------------------ 
+
+TABLE: Balast
+Pret/metru                     ID                             
+------------------------------ ------------------------------ 
+
+TABLE: Instalatii
+Total                          
+------------------------------ 
+0.928800                       
+
+Table "Bursieri" not found in database.

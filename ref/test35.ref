@@ -1,0 +1,17 @@
+TABLE: Electronice
+Disponibile                    Rating                         ID                             
+------------------------------ ------------------------------ ------------------------------ 
+229                            146                            38                             
+
+TABLE: Profesori
+Importator                     Strada                         Tara_Origine                   
+------------------------------ ------------------------------ ------------------------------ 
+
+Table "Tropicale" not found in database.
+Table "Mirodenii" not found in database.
+Table "Bursieri" does not contain column "Localitate".
+TABLE: Electronice
+Disponibile                    Rating                         ID                             
+------------------------------ ------------------------------ ------------------------------ 
+229                            146                            38                             
+

@@ -57,7 +57,7 @@ else:
 	print("------------------------------------")
 	print("Punctaj total {}/85.0".format(norPunct))
 	print("Punctaj valgrind {}/20.0".format(valPunct))
-	os.system("rm -rf v.out")
+	os.system("rm -rf v.out tema1")
 
 	if norPunct != 85.0 or valPunct != 20.0:
 		os._exit(1)

@@ -1,0 +1,28 @@
+Table "Linoleum" does not contain column "Restantieri".
+DATABASE: parc_auto
+
+TABLE: Linoleum
+Olimpici                       Disponibile                    
+------------------------------ ------------------------------ 
+1                              0                              
+
+DATABASE: parc_auto
+
+TABLE: Linoleum
+Olimpici                       Disponibile                    
+------------------------------ ------------------------------ 
+1                              0                              
+
+DATABASE: parc_auto
+
+TABLE: Linoleum
+Olimpici                       Disponibile                    
+------------------------------ ------------------------------ 
+1                              0                              
+
+TABLE: Linoleum
+Olimpici                       Disponibile                    
+------------------------------ ------------------------------ 
+1                              0                              
+4                              7                              
+

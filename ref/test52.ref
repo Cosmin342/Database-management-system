@@ -1,0 +1,80 @@
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Uber" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Profesori" not found in database.
+Table "Ambientale" not found in database.
+DATABASE: companie
+
+TABLE: Oameni
+Importator                     Strada                         Tara_Origine                   
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Electronice
+Marcaje                        Cantitate                      
+------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Regiune                        Nume                           
+------------------------------ ------------------------------ 
+
+TABLE: Fainoase
+Cantitate                      Rating                         Rezervate                      
+------------------------------ ------------------------------ ------------------------------ 
+183                            175                            209                            
+
+TABLE: Super_Cars
+Denumire                       ID                             Importator                     Regiune                        Strada                         Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Ambientale
+ID                             Nr_Defecte                     Restantieri                    Cantitate                      Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Profesori" not found in database.
+Table "Oameni" not found in database.
+DATABASE: companie
+
+TABLE: Electronice
+Marcaje                        Cantitate                      
+------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Regiune                        Nume                           
+------------------------------ ------------------------------ 
+Rose                           Sara                           
+impulse                        event                          
+
+TABLE: Fainoase
+Cantitate                      Rating                         Rezervate                      
+------------------------------ ------------------------------ ------------------------------ 
+183                            175                            209                            
+
+TABLE: Super_Cars
+Denumire                       ID                             Importator                     Regiune                        Strada                         Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Ambientale
+ID                             Nr_Defecte                     Restantieri                    Cantitate                      Rating                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+ID                             Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Balast
+Pret/metru                     Tip                            
+------------------------------ ------------------------------ 
+0.759000                       0.936800                       
+
+Table "Profesori" not found in database.

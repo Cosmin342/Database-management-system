@@ -1,0 +1,66 @@
+DATABASE: farmacie
+
+TABLE: Utilaje
+Pret/metru                     Total                          
+------------------------------ ------------------------------ 
+
+DATABASE: farmacie
+
+TABLE: Utilaje
+Pret/metru                     Total                          
+------------------------------ ------------------------------ 
+
+Table "Utilaje" does not contain column "Consum".
+TABLE: Utilaje
+Pret/metru                     Total                          
+------------------------------ ------------------------------ 
+0.121600                       0.324200                       
+
+Table "Ambientale" not found in database.
+DATABASE: farmacie
+
+TABLE: Utilaje
+Pret/metru                     Total                          
+------------------------------ ------------------------------ 
+0.121600                       0.324200                       
+
+TABLE: Economie
+Societati_Comerciale           Disponibile                    Rezervate                      ID                             Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+ID                             Denumire                       Garantie                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+nondescript                    ugly                           Bonnie                         Douglas                        Cox                            
+
+DATABASE: farmacie
+
+TABLE: Utilaje
+Pret/metru                     Total                          
+------------------------------ ------------------------------ 
+0.121600                       0.324200                       
+
+TABLE: Economie
+Societati_Comerciale           Disponibile                    Rezervate                      ID                             Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+160                            64                             204                            186                            57                             
+22                             30                             79                             72                             188                            
+
+TABLE: Asistenti
+ID                             Denumire                       Garantie                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+nondescript                    ugly                           Bonnie                         Douglas                        Cox                            
+Rivera                         Randy                          Elizabeth                      Perez                          Roberts                        
+
+TABLE: Instalatii
+ID                             Impozit                        Consum                         TVA                            Tip                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Mirodenii
+Salariu_baza                   Tip                            
+------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Restantieri                    ID                             Rating                         
+------------------------------ ------------------------------ ------------------------------ 
+

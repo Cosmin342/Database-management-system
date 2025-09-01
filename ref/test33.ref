@@ -1,0 +1,30 @@
+Table "Super_Cars" does not contain column "Strada".
+DATABASE: parc_auto
+
+TABLE: Uber
+Pret/metru                     Pret/bucata                    Consum                         
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Super_Cars
+Nume                           Regiune                        Garantie                       
+------------------------------ ------------------------------ ------------------------------ 
+
+Table "Bere" not found in database.
+DATABASE: parc_auto
+
+TABLE: Uber
+Pret/metru                     Pret/bucata                    Consum                         
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Super_Cars
+Nume                           Regiune                        Garantie                       
+------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Masini
+Total                          Pret/metru                     Discount                       Tip                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Masini" does not contain column "Consum".
+Table "Doctori" not found in database.
+Table "Bere" not found in database.
+Table "Masini" does not contain column "Salariu_baza".

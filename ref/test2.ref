@@ -1,0 +1,15 @@
+Table "Angajati" does not contain column "Strada".
+Table "Instalatii" not found in database.
+DATABASE: abonament_STB
+
+TABLE: Angajati
+Importator                     Garantie                       
+------------------------------ ------------------------------ 
+Diana                          handy                          
+
+TABLE: Fainoase
+Nr_Defecte                     Cantitate                      
+------------------------------ ------------------------------ 
+1                              8                              
+2                              1                              
+

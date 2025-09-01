@@ -1,0 +1,1209 @@
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+
+Table "Salarii" not found in database.
+Table "Obiecte" not found in database.
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+
+Table "Camioane" not found in database.
+Table "Obiecte" not found in database.
+Table "Studente" not found in database.
+Table "Instalatii" not found in database.
+Table "Economie" not found in database.
+Table "Doctori" not found in database.
+Table "Uber" does not contain column "Total".
+Table "Echipari" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+
+TABLE: Uber
+Consum                         TVA                            ID                             Impozit                        Tip                            Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.953200                       0.040300                       0.592500                       0.348800                       0.995800                       0.429900                       
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Racoritoare
+Societati_Comerciale           Disponibile                    Rating                         Rezervate                      Restantieri                    Cantitate                      Olimpici                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Instalatii" not found in database.
+Table "Instalatii" not found in database.
+Table "Instalatii" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+
+TABLE: Uber
+Consum                         TVA                            ID                             Impozit                        Tip                            Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.953200                       0.040300                       0.592500                       0.348800                       0.995800                       0.429900                       
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Racoritoare
+Societati_Comerciale           Disponibile                    Rating                         Rezervate                      Restantieri                    Cantitate                      Olimpici                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Echipamente" not found in database.
+Table "Electronice" not found in database.
+TABLE: Racoritoare
+Societati_Comerciale           Disponibile                    Rating                         Rezervate                      Restantieri                    Cantitate                      Olimpici                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Doctori" not found in database.
+Table "Echipari" not found in database.
+Table "Echipari" not found in database.
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+
+Table "Bujii" not found in database.
+Table "Salarii" not found in database.
+Table "Obiecte" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Oameni
+Regiune                        Localitate                     Tara_Origine                   ID                             Nume                           Prenume                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Linoleum" not found in database.
+Table "Elevi" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Oameni
+Regiune                        Localitate                     Tara_Origine                   ID                             Nume                           Prenume                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Kathryn                        damaging                       Jimmy                          test                           Griffin                        Hall                           Evans                          
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Asistenti" not found in database.
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+
+Table "Uber" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Oameni
+Regiune                        Localitate                     Tara_Origine                   ID                             Nume                           Prenume                        Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Kathryn                        damaging                       Jimmy                          test                           Griffin                        Hall                           Evans                          
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Masini" does not contain column "Pret/metru".
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Balast" not found in database.
+Table "Studente" not found in database.
+Table "Balast" not found in database.
+Table "Racoritoare" not found in database.
+Table "Fainoase" not found in database.
+Table "Linoleum" not found in database.
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+
+Table "Oameni" not found in database.
+Table "Bere" not found in database.
+Table "Mirodenii" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Elevi" not found in database.
+Table "Instalatii" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+wakeful                        Keith                          minor                          Hall                           wasteful                       Sandra                         
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+wakeful                        Keith                          minor                          Hall                           wasteful                       Sandra                         
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Electronice" not found in database.
+Table "Salarii" not found in database.
+Table "Elevi" not found in database.
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Racoritoare" not found in database.
+Table "Studenti" not found in database.
+Table "Economie" not found in database.
+Table "Racoritoare" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+Bonnie                         Kelly                          unique                         synonymous                     unique                         Howard                         Donald                         Foster                         
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+0.114900                       0.830100                       0.533700                       0.259800                       0.715200                       0.185000                       0.447800                       0.495400                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+wakeful                        Keith                          minor                          Hall                           wasteful                       Sandra                         
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Profesori" not found in database.
+Table "Linoleum" not found in database.
+Table "Linoleum" not found in database.
+Table "Elevi" not found in database.
+Table "Bujii" not found in database.
+Table "Linoleum" not found in database.
+Table "Instalatii" not found in database.
+Table "Elevi" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+0.114900                       0.830100                       0.533700                       0.259800                       0.715200                       0.185000                       0.447800                       0.495400                       
+0.675900                       0.652600                       0.743200                       0.822100                       0.550100                       0.190900                       0.000600                       0.880600                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+wakeful                        Keith                          minor                          Hall                           wasteful                       Sandra                         
+Martinez                       past                           breezy                         sort                           Jeremy                         Jenkins                        
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lopez                          Baker                          Henry                          impulse                        wrist                          Walter                         cry                            
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.040900                       0.247100                       0.699600                       0.602700                       0.111800                       0.596400                       
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+0.114900                       0.830100                       0.533700                       0.259800                       0.715200                       0.185000                       0.447800                       0.495400                       
+0.675900                       0.652600                       0.743200                       0.822100                       0.550100                       0.190900                       0.000600                       0.880600                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+wakeful                        Keith                          minor                          Hall                           wasteful                       Sandra                         
+Martinez                       past                           breezy                         sort                           Jeremy                         Jenkins                        
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lopez                          Baker                          Henry                          impulse                        wrist                          Walter                         cry                            
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.040900                       0.247100                       0.699600                       0.602700                       0.111800                       0.596400                       
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+0.114900                       0.830100                       0.533700                       0.259800                       0.715200                       0.185000                       0.447800                       0.495400                       
+0.675900                       0.652600                       0.743200                       0.822100                       0.550100                       0.190900                       0.000600                       0.880600                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+wakeful                        Keith                          minor                          Hall                           wasteful                       Sandra                         
+Martinez                       past                           breezy                         sort                           Jeremy                         Jenkins                        
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lopez                          Baker                          Henry                          impulse                        wrist                          Walter                         cry                            
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.040900                       0.247100                       0.699600                       0.602700                       0.111800                       0.596400                       
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+Table "Economie" not found in database.
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+0.114900                       0.830100                       0.533700                       0.259800                       0.715200                       0.185000                       0.447800                       0.495400                       
+0.675900                       0.652600                       0.743200                       0.822100                       0.550100                       0.190900                       0.000600                       0.880600                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+wakeful                        Keith                          minor                          Hall                           wasteful                       Sandra                         
+Martinez                       past                           breezy                         sort                           Jeremy                         Jenkins                        
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lopez                          Baker                          Henry                          impulse                        wrist                          Walter                         cry                            
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.040900                       0.247100                       0.699600                       0.602700                       0.111800                       0.596400                       
+0.209900                       0.903400                       0.423400                       0.037200                       0.761000                       0.109700                       
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.695900                       0.039000                       0.078200                       0.457500                       0.047200                       0.211700                       0.335700                       0.058600                       
+0.671900                       0.432100                       0.906100                       0.681800                       0.878800                       0.677500                       0.174300                       0.651000                       
+
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+Total                          Pret/bucata                    Impozit                        Pret/metru                     Salariu_baza                   ID                             Tip                            Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Oameni" not found in database.
+Table "Oameni" not found in database.
+Table "Racoritoare" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+0.114900                       0.830100                       0.533700                       0.259800                       0.715200                       0.185000                       0.447800                       0.495400                       
+0.675900                       0.652600                       0.743200                       0.822100                       0.550100                       0.190900                       0.000600                       0.880600                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+refuse                         Brooks                         wakeful                        Torres                         carve                          cluttered                      
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lopez                          Baker                          Henry                          impulse                        wrist                          Walter                         cry                            
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.040900                       0.247100                       0.699600                       0.602700                       0.111800                       0.596400                       
+0.209900                       0.903400                       0.423400                       0.037200                       0.761000                       0.109700                       
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.695900                       0.039000                       0.078200                       0.457500                       0.047200                       0.211700                       0.335700                       0.058600                       
+0.671900                       0.432100                       0.906100                       0.681800                       0.878800                       0.677500                       0.174300                       0.651000                       
+
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+Total                          Pret/bucata                    Impozit                        Pret/metru                     Salariu_baza                   ID                             Tip                            Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bujii
+Disponibile                    Marcaje                        Rezervate                      Rating                         Restantieri                    Cantitate                      Societati_Comerciale           Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+0.114900                       0.830100                       0.533700                       0.259800                       0.715200                       0.185000                       0.447800                       0.495400                       
+0.675900                       0.652600                       0.743200                       0.822100                       0.550100                       0.190900                       0.000600                       0.880600                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+refuse                         Brooks                         wakeful                        Torres                         carve                          cluttered                      
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lopez                          Baker                          Henry                          impulse                        wrist                          Walter                         cry                            
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.040900                       0.247100                       0.699600                       0.602700                       0.111800                       0.596400                       
+0.209900                       0.903400                       0.423400                       0.037200                       0.761000                       0.109700                       
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.695900                       0.039000                       0.078200                       0.457500                       0.047200                       0.211700                       0.335700                       0.058600                       
+0.671900                       0.432100                       0.906100                       0.681800                       0.878800                       0.677500                       0.174300                       0.651000                       
+
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+Total                          Pret/bucata                    Impozit                        Pret/metru                     Salariu_baza                   ID                             Tip                            Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bujii
+Disponibile                    Marcaje                        Rezervate                      Rating                         Restantieri                    Cantitate                      Societati_Comerciale           Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Uber" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+0.114900                       0.830100                       0.533700                       0.259800                       0.715200                       0.185000                       0.447800                       0.495400                       
+0.675900                       0.652600                       0.743200                       0.822100                       0.550100                       0.190900                       0.000600                       0.880600                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Doctori
+Nume                           Garantie                       Importator                     ID                             Prenume                        Denumire                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+refuse                         Brooks                         wakeful                        Torres                         carve                          cluttered                      
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lopez                          Baker                          Henry                          impulse                        wrist                          Walter                         cry                            
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.040900                       0.247100                       0.699600                       0.602700                       0.111800                       0.596400                       
+0.209900                       0.903400                       0.423400                       0.037200                       0.761000                       0.109700                       
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.695900                       0.039000                       0.078200                       0.457500                       0.047200                       0.211700                       0.335700                       0.058600                       
+0.671900                       0.432100                       0.906100                       0.681800                       0.878800                       0.677500                       0.174300                       0.651000                       
+
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+Total                          Pret/bucata                    Impozit                        Pret/metru                     Salariu_baza                   ID                             Tip                            Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bujii
+Disponibile                    Marcaje                        Rezervate                      Rating                         Restantieri                    Cantitate                      Societati_Comerciale           Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Oameni" not found in database.
+Table "Oameni" not found in database.
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+0.114900                       0.830100                       0.533700                       0.259800                       0.715200                       0.185000                       0.447800                       0.495400                       
+0.675900                       0.652600                       0.743200                       0.822100                       0.550100                       0.190900                       0.000600                       0.880600                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lopez                          Baker                          Henry                          impulse                        wrist                          Walter                         cry                            
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.040900                       0.247100                       0.699600                       0.602700                       0.111800                       0.596400                       
+0.209900                       0.903400                       0.423400                       0.037200                       0.761000                       0.109700                       
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.695900                       0.039000                       0.078200                       0.457500                       0.047200                       0.211700                       0.335700                       0.058600                       
+0.671900                       0.432100                       0.906100                       0.681800                       0.878800                       0.677500                       0.174300                       0.651000                       
+
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+Total                          Pret/bucata                    Impozit                        Pret/metru                     Salariu_baza                   ID                             Tip                            Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bujii
+Disponibile                    Marcaje                        Rezervate                      Rating                         Restantieri                    Cantitate                      Societati_Comerciale           Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Oameni" not found in database.
+Table "Elevi" not found in database.
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+engine                         nondescript                    Bell                           luxuriant                      Kimberly                       Keith                          Gray                           Russell                        
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+0.114900                       0.830100                       0.533700                       0.259800                       0.715200                       0.185000                       0.447800                       0.495400                       
+0.675900                       0.652600                       0.743200                       0.822100                       0.550100                       0.190900                       0.000600                       0.880600                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lopez                          Baker                          Henry                          impulse                        wrist                          Walter                         cry                            
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.040900                       0.247100                       0.699600                       0.602700                       0.111800                       0.596400                       
+0.209900                       0.903400                       0.423400                       0.037200                       0.761000                       0.109700                       
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.695900                       0.039000                       0.078200                       0.457500                       0.047200                       0.211700                       0.335700                       0.058600                       
+0.671900                       0.432100                       0.906100                       0.681800                       0.878800                       0.677500                       0.174300                       0.651000                       
+
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+Total                          Pret/bucata                    Impozit                        Pret/metru                     Salariu_baza                   ID                             Tip                            Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bujii
+Disponibile                    Marcaje                        Rezervate                      Rating                         Restantieri                    Cantitate                      Societati_Comerciale           Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Instalatii" not found in database.
+Table "Racoritoare" not found in database.
+Table "Elevi" not found in database.
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+
+DATABASE: universitate
+
+TABLE: Angajati
+Prenume                        Regiune                        Denumire                       Garantie                       Nume                           Tara_Origine                   ID                             Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+live                           threatening                    Rachel                         afterthought                   keen                           Baker                          Frances                        Beverly                        
+Douglas                        noxious                        Clark                          past                           Stewart                        Martinez                       credit                         girls                          
+
+TABLE: Masini
+Consum                         Pret/bucata                    TVA                            Salariu_baza                   Total                          Discount                       ID                             Impozit                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.491700                       0.234900                       0.035000                       0.994500                       0.856400                       0.964100                       0.106600                       0.865000                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+310920                         591148                         254747                         580399                         74337                          520684                         247030                         
+
+TABLE: Bursieri
+Importator                     Localitate                     Strada                         Nume                           Denumire                       Prenume                        ID                             Garantie                       
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+brush                          Michael                        Rachel                         rustic                         minor                          terrific                       Jack                           Jeremy                         
+
+TABLE: Echipari
+Societati_Comerciale           Olimpici                       Rating                         Restantieri                    Cantitate                      Marcaje                        Rezervate                      Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+252913                         244266                         331299                         51650                          104529                         192270                         150387                         344379                         
+
+TABLE: Asistenti
+Regiune                        Tara_Origine                   Prenume                        Garantie                       Denumire                       Localitate                     Strada                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Echipamente
+Prenume                        Denumire                       ID                             Tara_Origine                   Strada                         Nume                           Localitate                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+Lopez                          Baker                          Henry                          impulse                        wrist                          Walter                         cry                            
+
+TABLE: Camioane
+Pret/metru                     Discount                       TVA                            Total                          Impozit                        Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.040900                       0.247100                       0.699600                       0.602700                       0.111800                       0.596400                       
+0.209900                       0.903400                       0.423400                       0.037200                       0.761000                       0.109700                       
+
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Salarii
+Salariu_baza                   Discount                       Consum                         Pret/metru                     Total                          Pret/bucata                    Impozit                        TVA                            
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.695900                       0.039000                       0.078200                       0.457500                       0.047200                       0.211700                       0.335700                       0.058600                       
+0.671900                       0.432100                       0.906100                       0.681800                       0.878800                       0.677500                       0.174300                       0.651000                       
+
+TABLE: Tropicale
+Restantieri                    Olimpici                       Disponibile                    ID                             Nr_Defecte                     Societati_Comerciale           Marcaje                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Obiecte
+Total                          Pret/bucata                    Impozit                        Pret/metru                     Salariu_baza                   ID                             Tip                            Consum                         
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Bujii
+Disponibile                    Marcaje                        Rezervate                      Rating                         Restantieri                    Cantitate                      Societati_Comerciale           Nr_Defecte                     
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Profesori
+Tara_Origine                   Garantie                       Localitate                     Strada                         Regiune                        Denumire                       Nume                           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+TABLE: Super_Cars
+Tara_Origine                   Regiune                        Nume                           Denumire                       Strada                         Localitate                     Garantie                       Prenume                        
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+
+Table "Instalatii" not found in database.
+Table "Oameni" not found in database.
+TABLE: Utilaje
+Discount                       Total                          Consum                         Impozit                        Pret/metru                     Salariu_baza                   
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+0.224100                       0.982500                       0.659100                       0.288500                       0.469900                       0.997400                       
+
+TABLE: Ambientale
+Rezervate                      Olimpici                       Restantieri                    Disponibile                    Nr_Defecte                     ID                             Societati_Comerciale           
+------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ ------------------------------ 
+114881                         466462                         134908                         434367                         26259                          643035                         351547                         
+548621                         514126                         403441                         441312                         550622                         55889                          130311                         
+310920                         591148                         254747                         580399                         74337                          520684                         247030                         
+

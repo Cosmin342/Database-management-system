@@ -1,0 +1,24 @@
+Table "Studente" not found in database.
+Table "Studente" not found in database.
+Table "Studente" not found in database.
+Table "Masini" not found in database.
+Table "Masini" not found in database.
+Table "Masini" not found in database.
+Table "Racoritoare" not found in database.
+TABLE: Angajati
+Tara_Origine                   Garantie                       ID                             
+------------------------------ ------------------------------ ------------------------------ 
+
+DATABASE: restaurant
+
+TABLE: Electronice
+Cantitate                      Nr_Defecte                     Marcaje                        
+------------------------------ ------------------------------ ------------------------------ 
+207                            91                             162                            
+144                            176                            214                            
+194                            80                             13                             
+
+TABLE: Angajati
+Tara_Origine                   Garantie                       ID                             
+------------------------------ ------------------------------ ------------------------------ 
+
