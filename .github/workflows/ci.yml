@@ -17,7 +17,7 @@ jobs:
 
       # 2. Install dependencies (if your project needs specific packages)
       - name: Install build tools
-        run: sudo apt-get update && sudo apt-get install -y build-essential python3 python3-pip
+        run: sudo apt-get update && sudo apt-get install -y build-essential python3 python3-pip valgrind
 
       # 3. Build the C project with make
       - name: Build C project
