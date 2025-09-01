@@ -25,4 +25,4 @@ jobs:
 
       # 4. Run Python tests
       - name: Run test script
-        run: python3 checker.py
+        run: python3 -u checker.py
